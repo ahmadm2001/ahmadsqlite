@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AhmadSqLite</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string-array name="tables">
+        <item> students </item>
+        <item> class </item>
+    </string-array>
+
+</resources>
